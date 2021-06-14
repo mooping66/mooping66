@@ -34,7 +34,7 @@ const yuiesung = {
 
 ## &#x1f4c8; GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mooping66&show_icons=true&line_height=27&count_private=true&theme=tokyonight)](https://github.com/mooping66/mooping66)<br/>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mooping66&&langs_count=5&theme=tokyonight)](https://github.com/mooping66/mooping66)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mooping66&&langs_count=7&theme=tokyonight)](https://github.com/mooping66/mooping66)
 
 
 <!--
